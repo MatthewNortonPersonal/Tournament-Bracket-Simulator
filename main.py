@@ -1,2 +1,3 @@
-print("Test")
-print("Hello World!")
+from tkinter import *
+root = Tk()
+root.mainloop()
